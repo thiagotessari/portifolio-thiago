@@ -1,3 +1,12 @@
 body{
-    background-color: aqua;
+    background-color: red;
+}
+
+h1{
+    color: white;
+    border: double;
+}
+
+print{
+    color: white;
 }
