@@ -1,12 +1,15 @@
 body{
-    background-color: red;
+    background-color: rgb(252, 249, 249);
 }
 
 h1{
-    color: white;
+    color: rgb(0, 0, 0);
     border: double;
 }
 
 print{
-    color: white;
+    color: rgb(0, 0, 0);
+}
+a{
+    color: black;
 }
